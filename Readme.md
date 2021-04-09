@@ -23,3 +23,7 @@
 - title, h2, h3, h4, h5, h6
 - b, i, u
 - ul, li, ol
+- comments ctrl+/
+- div
+- anchor tag a, [href]
+- table, tr, td, th, [border]
