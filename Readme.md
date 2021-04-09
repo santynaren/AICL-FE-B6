@@ -15,3 +15,4 @@
 ### Day 2
 
 - Git Basics and Installation Completed
+- html, head, body, h1
