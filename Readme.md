@@ -26,4 +26,5 @@
 - comments ctrl+/
 - div
 - anchor tag a, [href]
+- button
 - table, tr, td, th, [border]
