@@ -28,3 +28,9 @@
 - anchor tag a, [href]
 - button
 - table, tr, td, th, [border]
+
+### Day 4
+
+- form
+- input
+- closing tags types, inline tags
