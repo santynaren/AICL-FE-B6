@@ -38,3 +38,8 @@
 - input attributes: placeholder, name, type
 - methods in form: GET, POST
 - form attributes: action, method
+
+### Day 5
+
+- CSS: inline, internal, external
+- CSS Selectors: id, name, class
