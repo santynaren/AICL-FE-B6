@@ -19,3 +19,26 @@ h3 {
     margin: 20px;
     padding: 20px;
 }
+
+input{
+    width:200px;
+    height: 30px;
+    border: 1px solid red;
+    border-radius: 5px;
+    box-shadow: 2px 2px #e7e7e7;
+    padding: 10px;
+    margin:10px;
+}
+
+table{
+    width: 500px;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+td{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    padding: 20px;
+}
