@@ -28,3 +28,13 @@
 - anchor tag a, [href]
 - button
 - table, tr, td, th, [border]
+
+### Day 4
+
+- form
+- input
+- closing tags types, inline tags
+- input types: text, password, email, url, file, color, date
+- input attributes: placeholder, name, type
+- methods in form: GET, POST
+- form attributes: action, method
