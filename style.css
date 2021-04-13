@@ -1,0 +1,21 @@
+/* css applied to an element by name */
+h3 {
+    color: brown;
+}
+
+/* css applied to an element by id */
+#header3yellow {
+    color: yellow;
+}
+
+/* css applied to an element by class */
+.header4 {
+    color: tomato;
+}
+
+.heading2 {
+    background-color: yellow;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
