@@ -43,3 +43,4 @@
 
 - CSS: inline, internal, external
 - CSS Selectors: id, name, class
+- Selectors character: id[#] class[.]
