@@ -3,6 +3,17 @@ h3 {
     color: brown;
 }
 
+body{
+    background-color: tomato;
+}
+
+
+
+.formDiv {
+    width: 100%;
+    text-align: center;
+}
+
 /* css applied to an element by id */
 #header3yellow {
     color: yellow;
@@ -20,25 +31,67 @@ h3 {
     padding: 20px;
 }
 
-input{
-    width:200px;
+.educationTable {
+    width: 100%;
+
+}
+
+.bannerImage {
+    width: 300px;
+    height: 500px;
+}
+
+input {
+    width: 100%;
     height: 30px;
     border: 1px solid red;
     border-radius: 5px;
     box-shadow: 2px 2px #e7e7e7;
     padding: 10px;
-    margin:10px;
+    margin-top: 10px;
 }
 
-table{
-    width: 500px;
-    padding: 10px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+@media only screen and (min-width: 600px){
+    /* tablets/ipads css here */
+    /* equal to or greater than 600 */
+    body{
+        background-color: orange;
+    }
+}
+@media only screen and (max-width: 375px){
+    /* mobile */
+    /* lesser or equal to 375px */
+    body{
+        background-color: pink;
+    }
+}
+
+
+@media only screen and (min-width: 1000px){
+    /* desktop css here */
+    /* equal to or greater than 1000 */
+    body{
+        background-color: white;
+    }
+    .formDiv {
+        width: 30%;
+        text-align: left;
+        padding: 20px;
+    }
+    .educationTable {
+        width: 500px;
+        text-align: center
+    }
+
+
 
 }
 
-td{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 12px;
-    padding: 20px;
+@media only screen and (min-width: 1400px){
+    /* large desktop css here */
+    /* equal to or greater than 600 */
+    body{
+        background-color: green;
+    }
 }
+

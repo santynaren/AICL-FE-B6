@@ -50,3 +50,4 @@
 - Responsive designs
 - Image tag: img
 - Meta tag for responsiveness
+- Media queries
