@@ -44,3 +44,11 @@
 - CSS: inline, internal, external
 - CSS Selectors: id, name, class
 - Selectors character: id[#] class[.]
+
+### Day 6
+
+- Responsive designs
+- Image tag: img
+- Meta tag for responsiveness
+- Media queries
+- flexbox: align-items, flex, display, justify-content
