@@ -51,3 +51,4 @@
 - Image tag: img
 - Meta tag for responsiveness
 - Media queries
+- flexbox: align-items, flex, display, justify-content
