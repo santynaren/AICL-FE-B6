@@ -57,3 +57,8 @@
 
 - Bootstrap
 - Hosting website in Github
+- Layout : container, container-fluid
+- Grid: row, col
+- sizes: sm, lg, md, xs
+- navbar
+- form
