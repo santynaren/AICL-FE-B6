@@ -52,3 +52,8 @@
 - Meta tag for responsiveness
 - Media queries
 - flexbox: align-items, flex, display, justify-content
+
+### Day 7
+
+- Bootstrap
+- Hosting website in Github
