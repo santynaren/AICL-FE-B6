@@ -60,5 +60,9 @@
 - Layout : container, container-fluid
 - Grid: row, col
 - sizes: sm, lg, md, xs
-- navbar
-- form
+
+### Day 8
+
+- bootstrap navbar
+- bootstrap form
+- navbar-brand navbar nav
