@@ -66,3 +66,4 @@
 - bootstrap navbar
 - bootstrap form
 - navbar-brand navbar nav
+- Javascript
