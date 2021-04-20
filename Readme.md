@@ -67,3 +67,9 @@
 - bootstrap form
 - navbar-brand navbar nav
 - Javascript
+
+### Day 9
+
+- Javascript DOM
+- Apache server install
+- MySQL Admin portal
