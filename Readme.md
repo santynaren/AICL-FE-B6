@@ -71,5 +71,5 @@
 ### Day 9
 
 - Javascript DOM
-- Apache server install [download]('https://www.apachefriends.org/index.html')
+- Apache server install [download](https://www.apachefriends.org/index.html)
 - MySQL Admin portal
