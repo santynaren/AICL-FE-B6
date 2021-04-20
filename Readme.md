@@ -1,12 +1,12 @@
 # Introduction to Full Stack Development
 
+## FrontEnd Repo
 ## Stack Used
 
 1. HTML
 2. CSS
 3. JS
-4. PHP
-5. MYSQL
+
 
 ### Day 1
 
@@ -67,3 +67,9 @@
 - bootstrap form
 - navbar-brand navbar nav
 - Javascript
+
+### Day 9
+
+- Javascript DOM
+- Apache server install [Download](https://www.apachefriends.org/index.html)
+- MySQL Admin portal
