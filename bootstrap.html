@@ -53,23 +53,25 @@
     </div>
     <div class="row container">
         <div class="col-4" style="margin-bottom: 40px; margin-top: 40px;">
+            <form method="POST" action="http://localhost/AICL-BE-B6/">
+
             <div class="form-floating">
-                <input type="text" class="form-control" id="name" placeholder="Name">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Name">
                 <label for="name">Name</label>
                 <br />
             </div>
             <div class="form-floating">
-                <input type="text" class="form-control" id="email" placeholder="Email">
+                <input type="text" class="form-control" name="email" id="email" placeholder="Email">
                 <label for="email">Email address</label>
                 <br />
             </div>
             <div class="form-floating">
-                <input type="text" class="form-control" id="number" placeholder="Name">
+                <input type="text" class="form-control" name="number" id="number" placeholder="Name">
                 <label for="number">Phone Number</label>
                 <br />
             </div>
             <div class="form-floating">
-                <textarea class="form-control" rows="7" style="height: 100px;" id="message"></textarea>
+                <textarea class="form-control"  name="message" rows="7" style="height: 100px;" id="message"></textarea>
                 <label for="message">Mesage</label>
                 <br />
             </div>
