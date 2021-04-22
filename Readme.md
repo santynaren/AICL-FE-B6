@@ -73,3 +73,7 @@
 - Javascript DOM
 - Apache server install [Download](https://www.apachefriends.org/index.html)
 - MySQL Admin portal
+
+### Day 10
+
+- connecting HTML form with PHP BE
