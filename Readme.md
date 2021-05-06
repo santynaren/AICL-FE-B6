@@ -81,3 +81,8 @@
 ### Day 11
 
 - Passing data to BE Repo and sending into DB
+
+### Day 12 - 13
+
+- Getting data from BE
+- displaying data in FE
